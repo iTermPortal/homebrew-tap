@@ -11,8 +11,9 @@ brew install --cask iTermPortal/tap/itermportal
 
 ## Contents
 
-- `Casks/itermportal.rb`: published automatically by the release workflow in `iTermPortal/iTermPortal`
+- `Casks/itermportal.rb`: Homebrew cask for the signed macOS release.
 
 ## Release Automation
 
-The app repository updates this tap whenever a new signed GitHub Release is published from a version tag.
+The current cask is bootstrapped from the published `iTermPortal/iTermPortal` release for version `2.3.2`.
+Future releases are intended to update this tap automatically from the app repository workflow.
