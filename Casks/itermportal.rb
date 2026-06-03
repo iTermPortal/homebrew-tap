@@ -1,6 +1,6 @@
 cask "itermportal" do
-  version "2.4.1"
-  sha256 "c7c3cc5a0a65eb807fb63c221494f8d3d6915a18c937c7ef60b2d9052b269b50"
+  version "2.4.2"
+  sha256 "43f908bca8b8f53754f0f4180b90bbaa5339ed3b7769a29f260cf7c9e3e1e710"
 
   url "https://github.com/iTermPortal/iTermPortal/releases/download/v#{version}/iTermPortal-macos.zip"
   name "iTermPortal"
